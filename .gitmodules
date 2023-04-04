@@ -7,3 +7,6 @@
 [submodule "react-keycloak"]
 	path = react-keycloak
 	url = git@github.com:saint-rivers/react-keycloak.git
+[submodule "angular-keycloak"]
+	path = angular-keycloak
+	url = git@github.com:saint-rivers/angular-keycloak.git
