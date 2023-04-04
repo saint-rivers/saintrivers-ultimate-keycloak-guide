@@ -19,6 +19,8 @@ Several helpful readme files can be found in `/opt/keycloak/**` with suggestions
 
 The built jar files can be uploaded to the `/opt/keycloak/providers` and it will be built in the Keycloak Dockerfile.
 
+Referenced from: <https://keycloak.discourse.group/t/custom-themes-with-keycloak-17/13786>
+
 ## Updating the Keycloak Login UI
 
 Using Keycloakify, the starting point of the configuration can be found in the file specified below.
