@@ -1,0 +1,6 @@
+[submodule "keycloak-spring-boot-backend"]
+	path = keycloak-spring-boot-backend
+	url = git@github.com:saint-rivers/keycloak-spring-boot-backend.git
+[submodule "keycloakify-starter-sample"]
+	path = keycloakify-starter-sample
+	url = git@github.com:saint-rivers/keycloakify-starter-sample.git
