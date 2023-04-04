@@ -4,3 +4,6 @@
 [submodule "keycloakify-starter-sample"]
 	path = keycloakify-starter-sample
 	url = git@github.com:saint-rivers/keycloakify-starter-sample.git
+[submodule "react-keycloak"]
+	path = react-keycloak
+	url = git@github.com:saint-rivers/react-keycloak.git
